@@ -42,14 +42,14 @@ x /= 4;
 console.log(x);
 
 // Operadores de comparação
-let a = 5;
-let b = 3;
+let c = 5;
+let d = 3;
 
-console.log(a == b);
-console.log(a != b);
-console.log(a === b);
-console.log(a !== b);
-console.log(a > b);
-console.log(a < b);
-console.log(a >= b);
-console.log(a <= b);
+console.log(c == d);
+console.log(c != d);
+console.log(c === d);
+console.log(c !== d);
+console.log(c > d);
+console.log(c < d);
+console.log(c >= d);
+console.log(c <= d);
