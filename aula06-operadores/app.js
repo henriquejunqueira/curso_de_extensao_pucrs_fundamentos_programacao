@@ -40,3 +40,16 @@ console.log(x);
 
 x /= 4;
 console.log(x);
+
+// Operadores de comparação
+let a = 5;
+let b = 3;
+
+console.log(a == b);
+console.log(a != b);
+console.log(a === b);
+console.log(a !== b);
+console.log(a > b);
+console.log(a < b);
+console.log(a >= b);
+console.log(a <= b);
