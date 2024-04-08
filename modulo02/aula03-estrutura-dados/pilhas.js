@@ -1,3 +1,5 @@
+// Pilha ou FILO (First-In, Last-Out) significa o primeiro item que entra é o último item que sai
+
 // Define a função contrutora stack que será usada para criar novas pilhas
 function Stack(){
     this.elements = [];
